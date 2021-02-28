@@ -10,9 +10,12 @@ Projeto feito com o intuito de treinar certas habilidades envolvendo java, poden
 #Como Utilizar
 
 Primeiramente, será necessario alguma IDE que rode Java como por exemplo:
-Eclipse(https://www.eclipse.org/downloads/)
-NetBeans(https://netbeans.org/downloads/8.2/rc/)
-visualCode(https://code.visualstudio.com/)
+
+-Eclipse(https://www.eclipse.org/downloads/)
+
+-NetBeans(https://netbeans.org/downloads/8.2/rc/)
+
+-visualCode(https://code.visualstudio.com/)
 
 Visual code em especifico necessita baixar dentro da ide as bibliotecas de java.
 
