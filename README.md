@@ -20,7 +20,7 @@ Primeiramente, será necessario alguma IDE que rode Java como por exemplo:
 
 Visual code em especifico necessita baixar dentro da ide as bibliotecas de java.
 
-Baixe o arquivo, e extraia para o local desejado, e depois utilize a IDE desejada que utilize java, fazendo buscando a pasta do projeto que extraiu.
+Baixe o arquivo, e extraia para o local desejado, e depois utilize a IDE desejada que utilize java, fazendo a buscando da pasta do projeto que extraiu.
 Para utilizar, inicie o JFrame da Tela de cadastro, e irá aparecer os botões que irão lhe levar para as telas de cadastro e pesquisa, visualização irá mostrar todas as informações de cada determinado campo, os únicos campos de integer serão os campos de lotação das sals e espaços, a leitura dos dados adicionados das salas de evento e espaçoes de coffe break, é primeiro o nome, e logo em baixo será sua lotação.
 
 #Tecnologias Utilizadas
